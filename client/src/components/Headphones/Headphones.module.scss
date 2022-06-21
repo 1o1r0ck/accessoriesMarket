@@ -1,0 +1,26 @@
+.card{
+    background-color: #FFFFFF;
+    padding: 20px;
+    width: 350px;
+    border-radius: 30px;
+    margin-right: 30px;  
+    height: 407px;
+    width: 350px;  
+    .cardbutton img{
+        display: flex;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 30px;
+    }
+    .info{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .like {
+        margin-top: 15px;
+        border: 0;
+        background-color: #FFFFFF;
+        cursor: pointer;
+    }
+}
